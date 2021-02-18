@@ -2,8 +2,8 @@
 <h1>xv6 projects</h1>
 <ol>
   <li> Adding a system call</li>
-  <li> Process state command(ps)</li>
-  <li> Shutdown command(shutdown)</li>
+  <li> Process state command (ps)</li>
+  <li> Shutdown command (shutdown)</li>
   <li> Wait system call for waiting for the child process to end</li>
 </ol>
 
