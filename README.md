@@ -21,7 +21,7 @@ Hope it will be helpful.</p>
 <p>    If you spot errors or have suggestions for improvement, please send
 email. </p>
 
-<h3>BUILDING AND RUNNING XV6</h3>
+<h3>BUILDING AND RUNNING xv6</h3>
 
 <p>   To build xv6 on an x86 ELF machine (like Linux or FreeBSD), run "make".
 On non-x86 or non-ELF machines (like OS X, even on x86), you will
