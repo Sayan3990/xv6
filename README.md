@@ -1,4 +1,4 @@
-# XV6
+# xv6
 <h1>xv6 projects</h1>
 <ol>
   <li> Adding a system call</li>
