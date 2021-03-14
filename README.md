@@ -1,6 +1,7 @@
 # xv6
 <h1>xv6 projects</h1>
 <ol>
+  <li> Installation </li>
   <li> Adding a system call</li>
   <li> Process state command (ps)</li>
   <li> Shutdown command (shutdown)</li>
