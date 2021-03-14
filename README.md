@@ -8,21 +8,21 @@
 </ol>
 
 <p>
-xv6 is a teaching operating system developed in 2006 for MIT's operating systems course, Operating System Engineering. As, it is a fresh operating system, you can do several projects in the xv6 environment that will be helpful to achieve a clear knowledge of how the system calls are working and how the Operating System is managing everything.</p>
+    xv6 is a teaching operating system developed in 2006 for MIT's operating systems course, Operating System Engineering. As, it is a fresh operating system, you can do several projects in the xv6 environment that will be helpful to achieve a clear knowledge of how the system calls are working and how the Operating System is managing everything.</p>
 <a href = "https://pdos.csail.mit.edu/6.828/2012/xv6.html"> More xv6 Information </a>
 <p>
-xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix Version 6 (v6).  xv6 loosely follows the structure and style of v6, but is implemented for a modern x86-based multiprocessor using ANSI C. </p>
+    xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix Version 6 (v6).  xv6 loosely follows the structure and style of v6, but is implemented for a modern x86-based multiprocessor using ANSI C. </p>
 
-<p>In my repository, you will be getting small projects and way of making system calls in xv6 that I have done during my BTech in Computer science and engineering.<br>
+<p>   In my repository, you will be getting small projects and way of making system calls in xv6 that I have done during my BTech in Computer science and engineering.<br>
 Hope it will be helpful.</p>
 
 <h3>ERROR REPORTS</h3>
-<p> If you spot errors or have suggestions for improvement, please send
+<p>    If you spot errors or have suggestions for improvement, please send
 email. </p>
 
 <h3>BUILDING AND RUNNING XV6</h3>
 
-<p> To build xv6 on an x86 ELF machine (like Linux or FreeBSD), run "make".
+<p>   To build xv6 on an x86 ELF machine (like Linux or FreeBSD), run "make".
 On non-x86 or non-ELF machines (like OS X, even on x86), you will
 need to install a cross-compiler gcc suite capable of producing x86 ELF
 binaries.  See http://pdos.csail.mit.edu/6.828/2014/tools.html. </p>
