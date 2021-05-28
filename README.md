@@ -5,7 +5,6 @@
   <li> Adding a system call</li>
   <li> Shutdown command (shutdown)</li>
   <li> Process state command (ps)</li>
-  <li> Wait system call for waiting for the child process to end (waitpid)</li>
 </ol>
 
 <p>
