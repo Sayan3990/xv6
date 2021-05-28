@@ -6,7 +6,6 @@
   <li> Shutdown command (shutdown)</li>
   <li> Process state command (ps)</li>
   <li> Wait system call for waiting for the child process to end (waitpid)</li>
-  <li> Making own process scheduler (Round Robin) </li>  
 </ol>
 
 <p>
