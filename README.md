@@ -10,9 +10,9 @@
 <p>
     xv6 is a teaching operating system developed in 2006 for MIT's operating systems course, Operating System Engineering. As, it is a fresh operating system, you can do several projects in the xv6 environment that will be helpful to achieve a clear knowledge of how the system calls are working and how the Operating System is managing everything. xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix Version 6 (v6).  xv6 loosely follows the structure and style of v6, but is implemented for a modern x86-based multiprocessor using ANSI C. </p>
 
-<a href = "https://pdos.csail.mit.edu/6.828/2012/xv6.html"> More xv6 Information </a>
+<a href = "https://pdos.csail.mit.edu/6.828/2012/xv6.html" target="_blank">xv6 official page</a>
 
-<p>   In my repository, you will be getting small projects and way of making system calls in xv6 that I have done during my BTech in Computer science and engineering.<br>
+<p>   In my repository, you will be getting small projects and way of making system calls in xv6 that I have done during my Operating System course in BTech Computer science and engineering.<br>
 Hope it will be helpful.</p>
 
 <h3>ERROR REPORTS</h3>
